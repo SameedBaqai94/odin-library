@@ -1,0 +1,9 @@
+*{
+    box-sizing: 0;
+    padding:0;
+    margin:0;
+}
+
+.header{
+    background-color: #D3D3D3;
+}
